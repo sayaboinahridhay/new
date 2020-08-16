@@ -1,3 +1,5 @@
+python==3.8.5
+setuptools==49.6.0
 bcrypt==3.1.4
 blinker==1.4
 certifi==2016.2.28
