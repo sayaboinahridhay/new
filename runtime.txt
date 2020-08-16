@@ -1,2 +1,1 @@
-setuptools-40.3.0
 MarkupSafe-1.1.1
